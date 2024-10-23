@@ -1,5 +1,3 @@
-# AnalyzingGasPrices
-
 # Gasoline Prices Analysis
 
 This project analyzes and visualizes gasoline prices using various datasets based on different gasoline types and used Different Machine learning models to Predict gas prices . The main analysis is performed in the `notebook.ipynb` file.
